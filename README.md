@@ -1,1 +1,1 @@
-# Food-Tracker
+The Food Tracker is a Java console program that allows users to record and review the meals they eat. The program displays a menu where users can choose to log a meal, view previously logged meals, or exit. When logging a meal, the user enters the food name and its calorie amount, which are stored in separate ArrayLists. The program can then display every recorded meal along with its calories and calculate the total number of calories consumed. It uses methods, loops, conditional statements, user input, and ArrayLists to organize and manage the meal data.
